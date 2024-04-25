@@ -2,5 +2,7 @@
 Angewandtes Programmieren Übung
 
 # Mathematische Operatoren
+tbd
 
 # Schleifen
+tbd
